@@ -1,5 +1,4 @@
 console.log("Server is starting...");
-
 try {
     express = require('express');
     bodyParser = require('body-parser');
